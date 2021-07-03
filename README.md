@@ -16,3 +16,6 @@ Education	<br>
 Children	<br>
 Pets<br>
 Absenteeism time in hours<br>
+
+## Analysis
+https://public.tableau.com/views/AbsenteeismatWorkplace_16252228106350/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
